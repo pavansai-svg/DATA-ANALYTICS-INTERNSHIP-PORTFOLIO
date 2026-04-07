@@ -10,5 +10,4 @@ Key Activities :
 - Data Visualization
 
 Repository Link :
-https://github.com/Sasikumar-19/Task2--EDA-BusinessIntelligence
-
+https://github.com/pavansai-svg/Task2-EDA-and-BUSINESS-INTELLIGENCE.git
